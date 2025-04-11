@@ -96,7 +96,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="./pic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Type Your Name</h1>
+            <h1>Sowmithra P</h1>
             <p>AM COMPUTER APPLICATION GRADUATE</p>
         </div>
     </header>
@@ -167,7 +167,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 P.Sowmithra</p>
+        <p>&copy; 2025 Sowmithra P</p>
     </footer>
 
     <script>
